@@ -1,6 +1,6 @@
 # Tolk: Screen Reader Abstraction Library
 
-* [Latest build from AppVeyor](https://ci.appveyor.com/api/projects/dkager/tolk/artifacts/tolk.zip?branch=master)
+* [Latest build from AppVeyor](https://ci.appveyor.com/api/projects/VitaliiTsilnyk/tolk/artifacts/tolk.zip?branch=master)
 * [Project page](https://davykager.com/projects/tolk/)
 
 ## Introduction
